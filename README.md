@@ -5,6 +5,9 @@ EDUBASICA es una tarjeta de prototipado rápido para conectar a Arduino. Incluye
 
 <a href="" target="_blank"><img width="300" height="250" border="0" align="center" src="img/Arduino_Uno_-_R3.jpg "/></a>
 <a href="" target="_blank"><img width="450" height="300" border="350" align="center" src="img/edubasica01.jpg  "/></a>
+
 www.arduino.org -- www.arduino.cc
 
 # Conexiones EduBasica con Arduino
+
+<a href="" target="_blank"><img width="300" height="250" border="0" align="center" src="img/EdubasicaQuickStartGuide-2.png "/></a>
