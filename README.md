@@ -14,3 +14,8 @@ www.arduino.org -- www.arduino.cc
 
 # Prácticas de programación y electrónica con Arduino
 http://procomun.educalab.es/es/ode/view/1462584713007
+# Autores
+Pablo E. García -- https://www.linkedin.com/in/pablo-evaristo-garc%C3%ADa-palacios-083a5483
+Manuel Hidalgo -- https://es.linkedin.com/in/manuel-hidalgo-díaz-b95b467b
+Jorge Luis Loza -- https://es.linkedin.com/in/jorgeluisloza
+Jorge Muñoz -- https://es.linkedin.com/in/jorge-mu%C3%B1oz-8a641160/es
