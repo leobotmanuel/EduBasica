@@ -12,5 +12,5 @@ www.arduino.org -- www.arduino.cc
 
 <a href="" target="_blank"><img width="700" height="450" border="0" align="center" src="img/EdubasicaQuickStartGuide-2.png "/></a>
 
-# Prácticas de programación y electrónica con Arduino para 4º de ESO
+# Prácticas de programación y electrónica con Arduino
 http://procomun.educalab.es/es/ode/view/1462584713007
