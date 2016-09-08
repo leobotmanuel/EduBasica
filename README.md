@@ -10,4 +10,4 @@ www.arduino.org -- www.arduino.cc
 
 # Conexiones EduBasica con Arduino
 
-<a href="" target="_blank"><img width="700" height="400" border="0" align="center" src="img/EdubasicaQuickStartGuide-2.png "/></a>
+<a href="" target="_blank"><img width="700" height="450" border="0" align="center" src="img/EdubasicaQuickStartGuide-2.png "/></a>
