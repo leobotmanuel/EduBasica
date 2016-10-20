@@ -9,5 +9,6 @@ Fuente: Luis LLamas
 http://www.luisllamas.es/2016/08/tipos-motores-rotativos-proyectos-arduino/
 
 Con EduBasica se puede controlar dos motores DC, utilizando el circuito integrado L293.
+
 Más información: https://learn.adafruit.com/adafruit-arduino-lesson-15-dc-motor-reversing?view=all
 
