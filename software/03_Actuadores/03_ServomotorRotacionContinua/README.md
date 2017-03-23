@@ -14,9 +14,8 @@ http://www.luisllamas.es/2016/08/tipos-motores-rotativos-proyectos-arduino/
 
 Elementos de servomotores.
 
-<a href="" target="_blank"><img width="500" height="300" border="0" align="center" src="img/elementosServo.png "/></a>
+<a href="" target="_blank"><img width="500" height="300" border="0" align="center" src="img/ServomotorRotacionContinua_elementos.png "/></a>
 
-Fuente: Luis LLamas
-http://www.luisllamas.es/2016/08/tipos-motores-rotativos-proyectos-arduino/
+
 
 
