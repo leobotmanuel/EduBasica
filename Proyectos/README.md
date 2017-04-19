@@ -21,4 +21,4 @@ Fuente: http://real2electronics.blogspot.com.es/2011/07/maqueta-de-control-pid-c
 # Robot imprimibles
 <a href="" target="_blank"><img width="320" height="240" border="0" align="center" src="img/Robots.png"/></a>
 
-Proyectos de robots imprimibles que tanta aceptación ha tenido en el aula como trabajo para desarrollar los contenidos de electrónica, programación y documentación digital.
+Proyectos de robots imprimibles que tanta aceptación ha tenido en el aula como trabajo para desarrollar los contenidos de electrónica, control, programación y documentación digital.
