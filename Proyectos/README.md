@@ -10,3 +10,5 @@ Este proyecto es una actualización del realizado en el Taller de Robótica Educ
 Video: https://www.youtube.com/watch?v=ucT549aUI94
 
 Presentación: http://platea.pntic.mec.es/~mhidalgo/page5.html
+
+Acceso a la actualización: https://github.com/leobotmanuel/EduBasica/blob/master/Proyectos/controlBarreraParking/README.md
