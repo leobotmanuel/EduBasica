@@ -3,4 +3,4 @@
 
 En esta sección tenemos proyectos con EduBasica-Arduino.
 # Control de barrera de parking
-<a href="" target="_blank"><img width="640" height="480" border="0" align="center" src="img/maqueta02.jpg"/></a>
+<a href="" target="_blank"><img width="320" height="240" border="0" align="center" src="img/maqueta02.jpg"/></a>
