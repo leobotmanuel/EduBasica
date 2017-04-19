@@ -19,6 +19,6 @@ Este proyecto se basa en la colaboración de Igor R., Alberto Yedra y LeoBot (Ma
 
 Fuente: http://real2electronics.blogspot.com.es/2011/07/maqueta-de-control-pid-con-arduino.html
 # Robot imprimibles
-<a href="" target="_blank"><img width="320" height="240" border="0" align="center" src="img/Robots.jpg"/></a>
+<a href="" target="_blank"><img width="320" height="240" border="0" align="center" src="img/Robots.png"/></a>
 
 Proyectos de robots imprimibles que tanta aceptación ha tenido en el aula como trabajo para desarrollar los contenidos de electrónica, programación y documentación digital.
