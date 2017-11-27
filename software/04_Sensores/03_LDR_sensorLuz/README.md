@@ -10,7 +10,7 @@ El circuito del sensor LDR en EduBasica es el siguiente:
 
 El programa para observar su funcionamiento con Visualino:
 
-   prog06_sensorLDR.bly
+   [prog06_sensorLDR.bly](EduBasica/software/02_VisualinoTest/prog06_sensorLDR.bly)
   
 A través del monitor serie se comprueba que:
 
