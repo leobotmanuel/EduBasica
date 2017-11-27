@@ -1,7 +1,7 @@
 # Pulsador, sensor digital.
 El pulsador es un objeto tecnológico simple y nos da dos niveles de tensión alto (HIGH) y bajo (LOW).
 
-El pulsador en EduBasica se utiliza para aprender a leer los sensores digitales, que tiene el estado de activo (1, lógico)
+El pulsador en EduBasica se utiliza para aprender a leer las [entradas digitales](https://www.luisllamas.es/entradas-digitales-en-arduino/), que tiene el estado de activo (1, lógico)
 o no activo (0, lógico) como son: final de carrera, sensor de presencia, sensor a distancia determinada,...
 
 El circuito del pulsador en EduBasica es el siguiente:
