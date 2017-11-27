@@ -14,9 +14,9 @@ El programa para observar su funcionamiento con Visualino:
 
 A través del monitor serie se comprueba que:
 
--   Si recibe luz el valor leído es bajo.
+- Si recibe luz el valor leído es bajo.
 
--  Si no recibe luz el valor leído es alto.
+- Si no recibe luz el valor leído es alto.
 
 
 # Actividad
