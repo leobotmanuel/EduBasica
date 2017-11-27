@@ -21,3 +21,5 @@ Observad y comprobad que:
 
 # Actividad
 Modificad las dos estructuras de control **if**, en el prog03_pulsador.bly, por una estructura de control **if-else**.
+
+Más información [wwww.luisllamas.com](https://www.luisllamas.es/leer-un-pulsador-con-arduino/)
