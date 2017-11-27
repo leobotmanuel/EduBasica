@@ -1,5 +1,5 @@
-# Potenciometro, resistencia varaible.
-El potenciometro es una resistencia que tiene tres terminales. Los dos terminales extremos son una resistencia
+# Potenciómetro, resistencia varaible.
+El potenciómetro es una resistencia que tiene tres terminales. Los dos terminales extremos son una resistencia
 fija (determinando el valor nominal del potenciómetro) y el terminal central, se desplaza con el mado de posición,
 marcando un valor variable con respeto a un terminal extremo.
 
