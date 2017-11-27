@@ -9,7 +9,9 @@ El circuito del sensor LDR en EduBasica es el siguiente:
 <a href="" target="_blank"><img width="109" height="274" border="0" align="center" src="img/LDR_esqEdubasica.png "/></a>
 
 El programa para observar su funcionamiento con Visualino:
+
  	prog06_sensorLDR.bly
+  
 A través del monitor serie se comprueba que:
    Si recibe luz el valor leído es bajo.
    Si no recibe luz el valor leído es alto.
