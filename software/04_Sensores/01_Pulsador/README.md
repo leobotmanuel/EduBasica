@@ -1,25 +1,23 @@
 # Pulsador, sensor digital.
-El potenciometro es una resistencia que tiene tres terminales. Los dos terminales extremos son una resistencia
-fija (determinando el valor nominal del potenciómetro) y el terminal central, se desplaza con el mado de posición,
-marcando un valor variable con respeto a un terminal extremo.
+El pulsador es un objeto tecnológico simple y nos da dos niveles de tensión alto (HIGH) y bajo (LOW).
 
-El potenciómetro en EduBasica se utiliza para aprender como se leen las magnitudes analógicas, que corresponde a la
-mayoría de magnitudes físicas como son: luz, fuerza, temperatura, humedad,...
+El pulsador en EduBasica se utiliza para aprender a leer los sensores digitales, que tiene el estado de activo (1, lógico)
+o no activo (0, lógico) como son: final de carrera, sensor de presencia, sensor a distancia determinada,...
 
-El circuito del potenciómero en EduBasica es el siguiente:
+El circuito del pulsador en EduBasica es el siguiente:
 
-<a href="" target="_blank"><img width="130" height="272" border="0" align="center" src="img/potenciometro_cirEdubasica.png "/></a>
+<a href="" target="_blank"><img width="248" height="187" border="0" align="center" src="img/pulsador_cirEdubasica.png "/></a>
 
 El programa para observar su funcionamiento con Visualino:
 
-- prog05_potenciometro.bly
+- prog03_Pulsador.bly
 
-A través del monitor serie se comprueba que:
+Observad y comprobad que:
 
-- Si el mando del potenciómetro se lleva a un extremo el valor leído es bajo (0), corresponde a 0v.
+- Si el pulsador no está pulsador el LED rojo está apagado.
 
-- Si el mando del potenciómetro se lleva al extremo contrario el valor leído es alto (1023),corresponde a 5v .
+- Si el pulsador está pulsado el LED rojo está encendido.
 
 
 # Actividad
-Introduce la intrucción necesaria, en el prog05_potenciometro.bly, para que la lectura del potenciómetro se visualice mejor.
+Modificad las dos estructuras de control **if**, en el prog03_pulsador.bly, por una estructura de control **if-else**.
