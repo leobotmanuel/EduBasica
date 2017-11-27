@@ -1,25 +1,20 @@
-# Potenciómetro, resistencia variable.
-El potenciómetro es una resistencia que tiene tres terminales. Los dos terminales extremos son una resistencia
-fija (determinando el valor nominal del potenciómetro) y el terminal central, se desplaza con el mado de posición,
-marcando un valor variable con respeto a un terminal extremo.
+# LED, actuador de salida luminoso.
+El LED es un objeto tecnológico simple luminoso que permite dar información de un evento si está activado o desactivado.
+Para más información de su funcionamiento y precauciones a tener en cuenta, consultad [aquí](https://www.luisllamas.es/encender-un-led-con-arduino/)
 
-El potenciómetro en EduBasica se utiliza para aprender como se leen las magnitudes analógicas, que corresponde a la
-mayoría de magnitudes físicas como son: luz, fuerza, temperatura, humedad,...
+El LED en EduBasica se utiliza para aprender las [salidas digitales](https://www.luisllamas.es/salidas-digitales-en-arduino/)
 
-El circuito del potenciómero en EduBasica es el siguiente:
+El circuito de los LEDs en EduBasica es el siguiente:
 
-<a href="" target="_blank"><img width="130" height="272" border="0" align="center" src="img/potenciometro_cirEdubasica.png "/></a>
+<a href="" target="_blank"><img width="130" height="272" border="0" align="center" src="img/leds_cirEdubasica.png "/></a>
 
-El programa para observar su funcionamiento con Visualino:
+El programa para aprender a programar las salidas digitales con Visualino:
 
-- prog05_potenciometro.bly
-
-A través del monitor serie se comprueba que:
-
-- Si el mando del potenciómetro se lleva a un extremo el valor leído es bajo (0), corresponde a 0v.
-
-- Si el mando del potenciómetro se lleva al extremo contrario el valor leído es alto (1023),corresponde a 5v .
+- prog01_Parpadeo.bly
+- prog02_Secuencia.bly
 
 
 # Actividad
-Introducid la intrucción necesaria, en el prog05_potenciometro.bly, para que la lectura del potenciómetro se visualice mejor.
+Modificad los programas anteriores para crear secuencias diferentes.
+
+Web de ampliación de información [www.luisllamas.es](https://www.luisllamas.es)
