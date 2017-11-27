@@ -22,4 +22,4 @@ A través del monitor serie se comprueba que:
 
 
 # Actividad
-Introduce la intrucción necesaria, en el prog05_potenciometro.bly, para que la lectura del potenciómetro se visualice mejor.
+Introducid la intrucción necesaria, en el prog05_potenciometro.bly, para que la lectura del potenciómetro se visualice mejor.
