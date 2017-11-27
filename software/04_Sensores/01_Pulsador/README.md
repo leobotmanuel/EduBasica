@@ -6,7 +6,7 @@ o no activo (0, lógico) como son: final de carrera, sensor de presencia, sensor
 
 El circuito del pulsador en EduBasica es el siguiente:
 
-<a href="" target="_blank"><img width="248" height="187" border="0" align="center" src="img/pulsador_cirEdubasica.png "/></a>
+<a href="" target="_blank"><img width="372" height="281" border="0" align="center" src="img/pulsador_cirEdubasica.png "/></a>
 
 El programa para observar su funcionamiento con Visualino:
 
