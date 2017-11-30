@@ -11,7 +11,7 @@ Con EduBasica se puede controlar dos motores DC, utilizando el circuito integrad
 
 <a href="" target="_blank"><img width="600" height="375" border="0" align="center" src="img/L293diagrama.png "/></a>
 
-Más información: https://learn.adafruit.com/adafruit-arduino-lesson-15-dc-motor-reversing?view=all
+[Más información:](https://learn.adafruit.com/adafruit-arduino-lesson-15-dc-motor-reversing?view=all)
 
 Los programa para aprender su funcionamiento con EduBasica:
 - prog08_motorA01.bly
