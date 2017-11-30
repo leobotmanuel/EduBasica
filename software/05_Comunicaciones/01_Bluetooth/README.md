@@ -14,7 +14,7 @@ En el momento de cargar el programa desde el Visualino a la placa Arduino hay qu
 Para ello utilizaremos un módulo HC-06 para Arduino y la aplicación para Android Bluecontrol.
 
 
-<a href="" target="_blank"><img width="400" height="300" border="0" align="center" src="img/blueControl.png"/></a>
+<a href="" target="_blank"><img width="400" height="240" border="0" align="center" src="img/blueControl.png"/></a>
 
 Ambos dispositivos, módulo Bluetooth y telefóno móvil o tablet, se tienen que emparejar y compartir una contraseña para que los datos puedan intercambiarse. Por defecto, estos módulos tienen la contraseña 1234. Normalmente el módulo de bluetooth tiene un LED que parpadea cuando se está intentando conectar con el móvil. Una vez hecho, la luz del LED permanece fija.
 
