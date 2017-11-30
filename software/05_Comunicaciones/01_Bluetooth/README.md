@@ -1,8 +1,6 @@
 # Bluetooth
-El sensor LDR es un sensor resistivo (fotoresistor), es decir que su resistencia eléctrica varía en función de la luz que recibe.
-Es un sensor analógico por lo que, para leer sus medidas, tenemos que conectarlo a una entrada analógica de Arduino.
-Si tapamos o acercamos el sensor a la luz veremos cómo cambian las medidas a través del monitor serie. 
-<a href="" target="_blank"><img width="354" height="306" border="0" align="center" src="img/LDR.jpg "/></a>
+El Bluetooth es un estándar de comunicación inalámbrica que permite la transmisión de datos a través de radiofrecuencia en la banda de 2,4 GHz. 
+<a href="" target="_blank"><img width="400" height="300" border="0" align="center" src="img/bluetooth.png"/></a>
 
 El circuito del sensor LDR en EduBasica es el siguiente:
 
