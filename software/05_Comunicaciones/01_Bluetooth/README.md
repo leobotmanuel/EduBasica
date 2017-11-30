@@ -1,7 +1,7 @@
 # Bluetooth
 El Bluetooth es un estándar de comunicación inalámbrica que permite la transmisión de datos a través de radiofrecuencia en la banda de 2,4 GHz. 
 
-<a href="" target="_blank"><img width="400" height="300" border="0" align="center" src="img/bluetooth.png"/></a>
+<a href="" target="_blank"><img width="400" height="300" border="0" align="center" src="img/bluetooth-hc0x.png"/></a>
 
 El módulo de bluetooth en EduBasica se conecta en un zócalo de 4 pines.
 -    El pin de transmisión del Bluetooth Tx se conecta al de recepción de Arduino Rx.
