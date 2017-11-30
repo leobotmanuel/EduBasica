@@ -12,4 +12,4 @@ estructura de control.
 - prog11_serie01b.bly
 
 # Actividad
-- Añadid las instrucciones necesarias para controlar todos los led por el puerto serie.
+- Añadid las instrucciones necesarias para controlar todos los leds por el puerto serie.
