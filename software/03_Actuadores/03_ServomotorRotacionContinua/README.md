@@ -9,8 +9,7 @@ Velocidad del servomotor de rotación continua.
 
 <a href="" target="_blank"><img width="600" height="320" border="0" align="center" src="img/ServomotorRotacionContinua_velocidad.png "/></a>
 
-Fuente: Luis LLamas
-http://www.luisllamas.es/2016/08/tipos-motores-rotativos-proyectos-arduino/
+Fuente: [Luis LLamas](https://www.luisllamas.es/controlar-un-servo-de-rotacion-continua-con-arduino)
 
 El servomotor de rotación continua tiene los mismos elementos que el servomotor, diferenciandose sólo en que la resistencia variable es fija. Este cambio hace que se llame "servomotor trucado".
 
